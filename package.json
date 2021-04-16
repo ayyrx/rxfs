@@ -1,0 +1,7 @@
+{
+    "name": "rxfs",
+    "version": "0.0.0",
+    "bin": {
+        "rxfs": "./rxfs.js"
+    }
+}
